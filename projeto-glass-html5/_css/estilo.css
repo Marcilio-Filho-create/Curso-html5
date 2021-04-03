@@ -232,3 +232,13 @@ table#tabelaspec caption span{
 	font-size: 8pt;
 	margin-top: 10px;
 }
+
+video#video01{
+	display: block;
+    position: relative;
+}
+video#video02{
+	display: block;
+    position: relative;
+	width: 400px;
+}
