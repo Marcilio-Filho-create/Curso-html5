@@ -233,12 +233,19 @@ table#tabelaspec caption span{
 	margin-top: 10px;
 }
 
-video#video01{
-	display: block;
-    position: relative;
+div#videos{
+	margin: auto;
 }
-video#video02{
+video#filme01{
 	display: block;
     position: relative;
-	width: 400px;
+	width: 450px;
+	left: 25px;
+	margin: 10px;
+}
+video#filme02{
+	display: block;
+    position: relative;
+	width: auto;
+	width: 350px;
 }
